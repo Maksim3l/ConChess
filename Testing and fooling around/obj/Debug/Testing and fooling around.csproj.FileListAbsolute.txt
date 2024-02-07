@@ -1,0 +1,11 @@
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Testing and fooling around\bin\Debug\Testing and fooling around.exe.config
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Testing and fooling around\bin\Debug\Testing and fooling around.exe
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Testing and fooling around\bin\Debug\Testing and fooling around.pdb
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.csproj.CoreCompileInputs.cache
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.exe
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.pdb
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.csprojAssemblyReference.cache
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.csprojAssemblyReference.cache
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.csproj.CoreCompileInputs.cache
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.exe
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Testing and fooling around\obj\Debug\Testing and fooling around.pdb

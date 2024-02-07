@@ -1,0 +1,21 @@
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.exe.config
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.exe
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.pdb
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.csprojAssemblyReference.cache
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.csproj.CoreCompileInputs.cache
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.exe
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.pdb
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.exe.config
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.exe
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.pdb
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.csprojAssemblyReference.cache
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.csproj.CoreCompileInputs.cache
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.exe
+F:\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.pdb
+F:\School shit\2.letnik\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.exe.config
+F:\School shit\2.letnik\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.exe
+F:\School shit\2.letnik\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\bin\Debug\Okay serious stuff.pdb
+F:\School shit\2.letnik\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.csproj.AssemblyReference.cache
+F:\School shit\2.letnik\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.csproj.CoreCompileInputs.cache
+F:\School shit\2.letnik\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.exe
+F:\School shit\2.letnik\C#\POKAŽI KAJ ZNAŠ\Main code\Okay serious stuff\obj\Debug\Okay serious stuff.pdb

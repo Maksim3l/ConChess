@@ -1,0 +1,2 @@
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Main code\obj\Debug\Main code.csprojAssemblyReference.cache
+F:\VISUAL GLITCH\LIES AND DICEAT\Main code\Main code\obj\Debug\Main code.csproj.CoreCompileInputs.cache
